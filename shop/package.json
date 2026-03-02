@@ -7,9 +7,8 @@
     "gql-clean": "rimraf -g \"{__generated__,.next,.cache,src/framework/graphql/**/*.d.ts}\"",
     "dev:rest": "next dev -p 3003",
     "build:rest": "next build",
-    "codegen": "graphql-let",
     "dev:gql": "yarn codegen && next dev -p 3001",
-    "build:gql": "yarn codegen && next build",
+    "build:gql": "next build",
     "start": "next start",
     "lint": "next lint",
     "postbuild:rest": "next-sitemap"
