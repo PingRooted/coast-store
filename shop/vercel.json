@@ -2,7 +2,7 @@
   "env": {
     "FRAMEWORK_PROVIDER": "rest",
     "NEXT_PUBLIC_REST_API_ENDPOINT": "your_rest_api_endpoint",
-    "NEXT_PUBLIC_GRAPHQL_API_ENDPOINT": "your_graphql_api_endpoint",
+    "NEXT_PUBLIC_GRAPHQL_API_ENDPOINT": "https://coast-store-1.onrender.com/graphql",
     "NEXT_PUBLIC_SITE_URL": "https://pickbazar-react-rest.vercel.app",
     "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "",
     "NEXTAUTH_URL": "https://pickbazar-react-rest.vercel.app/",
@@ -23,7 +23,7 @@
     "env": {
       "FRAMEWORK_PROVIDER": "rest",
       "NEXT_PUBLIC_REST_API_ENDPOINT": "your_rest_api_endpoint",
-      "NEXT_PUBLIC_GRAPHQL_API_ENDPOINT": "your_graphql_api_endpoint",
+      "NEXT_PUBLIC_GRAPHQL_API_ENDPOINT": "https://coast-store-1.onrender.com/graphql",
       "NEXT_PUBLIC_SITE_URL": "https://pickbazar-react-rest.vercel.app",
       "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "",
       "NEXTAUTH_URL": "https://pickbazar-react-rest.vercel.app/",
